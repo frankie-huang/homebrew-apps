@@ -5,5 +5,5 @@ cask "md-editor" do
     name "Markdown Editor"
     desc "一个 Markdown 编辑器"
     homepage "https://myafei.cn/"
-    app "markdown-editor.app"
+    app "markdown-editor.app" # 声明 APP 名称，需要与 dmg 安装完成后的 app 名称保持一致
 end
