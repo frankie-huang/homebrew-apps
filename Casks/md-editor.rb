@@ -5,5 +5,5 @@ cask "md-editor" do
     name "Markdown Editor"
     desc "一个 Markdown 编辑器"
     homepage "https://myafei.cn/"
-    app "MarkdownEditor.app"
+    app "markdown-editor.app"
 end
